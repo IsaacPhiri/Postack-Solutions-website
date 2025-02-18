@@ -5,3 +5,9 @@ Welcome to the **Postack Solutions Landing Page** project. Your task is to desig
 ✅ **Hosting Information**  
 ✅ **About Us Section**  
 ✅ **Contact Form**
+
+## Project Requirements
+1. **Navigation Bar**  
+   - The navigation bar should be fixed to the top of the page.
+   - The navigation bar should include links to the different sections of the page.
+   - The navigation bar should include a logo for Postack Solutions.
