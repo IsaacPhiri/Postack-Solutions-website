@@ -15,3 +15,13 @@ Welcome to the **Postack Solutions Landing Page** project. Your task is to desig
 2. **Services Section**
     - The services section should include a brief description of the services offered by Postack Solutions.
     - The services section should include icons to represent the different services offered.
+
+## Contribution Guidelines
+1. **Feature Branches**
+   - Create a new branch for each feature or bug fix.
+   - Branch names should be descriptive of the work being done (e.g., `feature/navbar`, `bugfix/contact-form`).
+
+2. **Pull Requests**
+   - All changes must be made via pull requests.
+   - Ensure your pull request has a clear description of the changes made.
+   - At least one team member must review and approve the pull request before it can be merged.
