@@ -5,7 +5,7 @@ Welcome to the **Postack Solutions Landing Page** project. Your task is to desig
 ✅ **Hosting Information**  
 ✅ **About Us Section**  
 ✅ **Contact Form**
-Each section should include backend functionality
+
 ## Project Requirements
 1. **Navigation Bar**  
    - The navigation bar should be fixed to the top of the page.
@@ -15,6 +15,18 @@ Each section should include backend functionality
 2. **Services Section**
     - The services section should include a brief description of the services offered by Postack Solutions.
     - The services section should include icons to represent the different services offered.
+
+3. **Hosting Information**
+    - The hosting information section should provide details about the hosting services offered.
+    - This section should include pricing plans and features of each plan.
+
+4. **About Us Section**
+    - The about us section should provide information about the company.
+    - This section should include the company's mission, vision, and team members.
+
+5. **Contact Form**
+    - The contact form should allow users to send messages to Postack Solutions.
+    - The form should include fields for the user's name, email, subject, and message.
 
 ## Contribution Guidelines
 1. **Feature Branches**
