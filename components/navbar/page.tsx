@@ -1,9 +1,16 @@
 import React from 'react'
+import Link from 'next/link';
+import Image from 'next/image';
 
 const Navbar = () => {
   return (
     <div className='navbar bg-neutral text-neutral-content'>
       <div className="navbar-start">
+      <div className="w-10 rounded-full">
+      <Link href="https://www.f6s.com/postack-solutions" target='_blank'>
+        <Image src="/Postack_logo.jpeg" alt="Postack Solutions" width={40} height={40}/>
+      </Link>
+    </div>
       <div className="dropdown">
       <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
         <svg
@@ -28,7 +35,7 @@ const Navbar = () => {
         <li><a href='#'>About Us</a></li>
       </ul>
     </div>
-    <a className="btn btn-ghost text-xl">Postack Solutions</a>
+    <a className="btn btn-ghost text-xl" href='https://www.f6s.com/postack-solutions' target='_blank'>Postack Solutions</a>
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1">
@@ -39,7 +46,7 @@ const Navbar = () => {
     </ul>
   </div>
   <div className="navbar-end">
-    <a className="btn">Learn more</a>
+    <a className="btn btn-primary">Learn more</a>
   </div>
     </div>
   )
